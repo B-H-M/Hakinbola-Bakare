@@ -608,6 +608,12 @@ The purpose of this repository is not simply to record courses completed, but to
 
 Training completed through **LetsDefend**, a hands-on Blue Team cybersecurity training platform.
 
-**Status:** 🟢 Ongoing
+
+**Platform:** LetsDefend  
+**Badge:** Network Cable  🏅
+**Status:** 🟢 Completed
+
 
 **Primary Focus:** SOC Operations | Blue Team | Incident Investigation | Malware Analysis | Network Security
+
+#LetsDefend #NetworkCable #Networking #NetworkFundamentals #NetworkSecurity #TCPIP #OSIModel #Subnetting #BlueTeam #SOCAnalyst #Cybersecurity
